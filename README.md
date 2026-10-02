@@ -6,7 +6,7 @@ A simple and responsive calculator built using **HTML, CSS, and JavaScript**. Th
 
 Add your GitHub Pages link here after deploying the project:
 
-`https://yourusername.github.io/javascript-calculator/`
+`https://github.com/iamshahram28/calculator-using-html-css-js.git`
 
 ## 📌 Features
 
@@ -42,7 +42,7 @@ javascript-calculator/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/javascript-calculator.git
+git clone https://github.com/iamshahram28/javascript-calculator.git
 ```
 
 2. Open the project folder.
